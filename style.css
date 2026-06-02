@@ -88,6 +88,7 @@
 .photoho {
   gap: 50px;
   display: flex;
+  justify-content: center;
 }
 .jol {
   color: white;
@@ -112,6 +113,7 @@
   height: 62px;
   margin-top: 50px;
   margin-left: 493px;
+  text-align: center;
 }
 .nok {
   margin-left: 200px;
